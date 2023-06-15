@@ -1,9 +1,9 @@
+<pre>
 <?php
 
 echo 'PHP running';
 
 ?>
-
 <html>
     <title>Bakcup App</title>
     <body>
